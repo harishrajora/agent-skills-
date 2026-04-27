@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "demo-skill-test": {
+      "source": "harishrajora/agent-skills-",
+      "sourceType": "github",
+      "computedHash": "ce9002bb7602ab45900cf24dfaba2a3f269d01e9028b94dce909c2cad5104edd"
+    }
+  }
+}
